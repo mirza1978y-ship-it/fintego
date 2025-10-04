@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M29.8333 15.3666V22.2999L26.4666 22.8666" stroke="white" stroke-opacity="0.5" stroke-linejoin="round"/>
+<path d="M26.8334 12.8667C25.3334 12.1667 23.5334 11.6667 21.6334 11.4333L18.6001 16.7667L29.8334 15.3333C29.3001 14.4 28.3334 13.5667 26.8334 12.8667Z" stroke="white" stroke-opacity="0.5" stroke-linejoin="round"/>
+<path d="M24.7001 18.3999L13.8668 19.7333L16.7334 14.7666C13.0001 14.3 8.86678 14.7666 5.93345 16.1C1.56678 18.1333 1.56678 21.4 5.93345 23.4333C10.3001 25.4666 17.4334 25.4666 21.8001 23.4333C24.7667 22.1 25.7335 20.1666 24.7001 18.3999Z" stroke="white" stroke-opacity="0.5" stroke-linejoin="round"/>
+<path d="M2.6333 19.9667V25.6333C2.6333 28.5 7.6667 30.8333 13.8667 30.8333C20.0667 30.8333 25.1 28.5 25.1 25.6333V19.9667" stroke="white" stroke-opacity="0.5" stroke-linejoin="round"/>
+<path d="M5.3667 14.5333V9.09998H9.43335" stroke="white" stroke-opacity="0.5" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path d="M9.43335 13.1666V1.6333H13.5V13.2" stroke="white" stroke-opacity="0.5" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path d="M13.5 5.69995H17.5667V13.1666" stroke="white" stroke-opacity="0.5" stroke-linejoin="round" stroke-dasharray="4 4"/>
+</svg>
