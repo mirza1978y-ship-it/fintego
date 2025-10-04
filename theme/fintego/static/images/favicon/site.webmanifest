@@ -1,0 +1,49 @@
+{
+    "name": "fintego",
+    "short_name": "fintego",
+    "icons": [
+        {
+            "src": "../favicon/16x16px.ico",
+            "sizes": "16x16",
+            "type": "image/x-icon"
+            
+        },
+        {
+            "src": "../favicon/32x32px.ico",
+            "sizes": "32x32",
+            "type": "image/x-icon"
+            
+        },
+        {
+            "src": "../favicon/48x48px.ico",
+            "sizes": "48x48",
+            "type": "image/x-icon"
+            
+        },
+        {
+            "src": "../favicon/SVG/16x16px.svg",
+            "sizes": "16x16",
+            "type": "image/svg+xml",
+            "purpose": "any"
+            
+        },
+        {
+            "src": "../favicon/SVG/32x32px.svg",
+            "sizes": "32x32",
+            "type": "image/svg+xml",
+            "purpose": "any"
+            
+        },
+        {
+            "src": "../favicon/SVG/48x48px.svg",
+            "sizes": "48x48",
+            "type": "image/svg+xml",
+            "purpose": "any"
+            
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
